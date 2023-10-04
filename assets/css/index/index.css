@@ -1,0 +1,26 @@
+nav {
+  height: 6.5em;
+ 
+}
+
+#logo {
+  text-align: center;
+  width: 200px;
+}
+
+.elemento {
+  display: grid;
+  grid-template-columns: 60% 40%;
+}
+
+#imagen{
+  width: 100%;
+  padding-bottom: 50px;
+  border-radius:10%;
+}
+
+.container {
+  padding-top: 120px; 
+  max-width: 100%;
+ 
+}
